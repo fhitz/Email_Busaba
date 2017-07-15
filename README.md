@@ -1,6 +1,6 @@
 # Email Cocktail Promotion/News letter Busaba using HTML & CSS RESPONSIVE
 
-## Desktop size: Max Width 600px 
+## Desktop size: Width= 600px height= 1649px
 
 ![Busaba Email](images/screenshotDESKTOP.jpg "Desktop version")
 
